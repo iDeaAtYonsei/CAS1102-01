@@ -1,5 +1,5 @@
-def hello(NguyenTran):
-    print(f"Hello {NguyenTran}")
+def hello(name):
+    print(f"Hello {name}")
 
 if __name__ == '__main__':
     hello("<NguyenTran>")
